@@ -1,22 +1,10 @@
 # 4ymedio
 
-Aplicacion de juegos de fiesta para jugar en grupo desde el celular. Incluye varios modos de juego como Tutti Frutti, Impostor y Adivina la carrera, pensados para jugar entre amigos en reuniones.
+Juegos de trivia de futbol para jugar con amigos, online o en la misma mesa.
 
-## Descargar e instalar (Android)
+Este repositorio solo publica las paginas legales de la app:
 
-1. Entra a la seccion [Releases](https://github.com/NachoGassie/4ymedio/releases/latest) y descarga el archivo `.apk` de la ultima version.
-2. Abri el archivo descargado en tu telefono Android.
-3. Si el sistema avisa sobre "origenes desconocidos", permiti la instalacion (es el comportamiento normal de cualquier app que no se instala desde Google Play).
-4. Listo, ya podes abrir 4ymedio y jugar.
+- [Politica de privacidad](https://nachogassie.github.io/4ymedio/privacy-policy.html)
+- [Eliminar tu cuenta](https://nachogassie.github.io/4ymedio/eliminar-cuenta.html)
 
-> Disponible solo para Android.
-
-## Tecnologias
-
-- Ionic
-- Angular
-- Capacitor
-
-## Estado
-
-Proyecto en desarrollo activo. Las nuevas versiones se publican en la seccion de Releases.
+> Disponible para Android a traves de Google Play.
